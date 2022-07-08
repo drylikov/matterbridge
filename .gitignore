@@ -1,0 +1,9 @@
+# Exclude matterbridge binary
+/matterbridge
+/matterbridge.exe
+
+# Exclude configuration file
+matterbridge.toml
+
+# Exclude IDE Files
+.vscode
